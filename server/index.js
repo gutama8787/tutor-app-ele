@@ -4,7 +4,6 @@ const fs = require('fs')
 const path = require('path');
 
 // const mongoose = require('mongoose')
-// const dbURI = 'mongodb+srv://gutama:RtEGNqv9O7TQxBun@cluster0.yela1.mongodb.net/myFirstDatabase?retryWrites=true&w=majority'
 
 // set port
 const PORT = process.env.PORT || 8080to
